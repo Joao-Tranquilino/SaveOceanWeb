@@ -360,4 +360,10 @@ footer .links-sociais {
     display: flex;
     flex-direction: column;
   }
+
+@media (max-width:400px) {
+  .peixe-celular {
+    display: none;
+  }
+}
 }
