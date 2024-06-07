@@ -303,6 +303,15 @@ footer .links-sociais {
   margin: 1.25rem 0 2.5rem 0;
 }
 
+@media (max-width:1380px) {
+  
+  .peixe-celular {
+    width: 469px;
+    height: 382px;
+    margin-top: 6rem;
+  }
+}
+
 @media (max-width:1300px) {
   .container-download {
     align-items: center;
@@ -328,6 +337,12 @@ footer .links-sociais {
 
   .grid-body4 p {
     font-size: 1rem;
+  }
+
+  .container-terciario {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
   }
 }
 
