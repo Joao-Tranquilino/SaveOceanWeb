@@ -153,7 +153,8 @@ body {
     display: flex;
     gap: 1.188rem;
     margin: 83px;
-    justify-content: center; 
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 /*1*/
